@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Middleware.PokeApi.Console", "App.Middleware.PokeApi.Console\App.Middleware.PokeApi.Console.csproj", "{61388D71-C5A4-4736-8CC6-CB031C1E2118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Middleware.PokeApi.Service", "App.Middleware.PokeApi.Service\App.Middleware.PokeApi.Service.csproj", "{3CAE7AEA-131C-4FAE-8E33-EFFC49BA7913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Middleware.PokeApi.Common", "App.Middleware.PokeApi.Common\App.Middleware.PokeApi.Common.csproj", "{D2FB5AB9-901B-4626-9300-1F650944DA30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61388D71-C5A4-4736-8CC6-CB031C1E2118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61388D71-C5A4-4736-8CC6-CB031C1E2118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61388D71-C5A4-4736-8CC6-CB031C1E2118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61388D71-C5A4-4736-8CC6-CB031C1E2118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAE7AEA-131C-4FAE-8E33-EFFC49BA7913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAE7AEA-131C-4FAE-8E33-EFFC49BA7913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAE7AEA-131C-4FAE-8E33-EFFC49BA7913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAE7AEA-131C-4FAE-8E33-EFFC49BA7913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FB5AB9-901B-4626-9300-1F650944DA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FB5AB9-901B-4626-9300-1F650944DA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FB5AB9-901B-4626-9300-1F650944DA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FB5AB9-901B-4626-9300-1F650944DA30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5410CB74-A281-4800-B619-6F23A9788DED}
+	EndGlobalSection
+EndGlobal
